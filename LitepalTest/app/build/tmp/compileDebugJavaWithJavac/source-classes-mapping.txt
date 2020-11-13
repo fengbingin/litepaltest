@@ -1,0 +1,5 @@
+com/example/litepaltest/BuildConfig.java
+ com.example.litepaltest.BuildConfig
+com/example/litepaltest/MainActivity.java
+ com.example.litepaltest.MainActivity
+ com.example.litepaltest.MainActivity$1
